@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Jekyll Test</title>
+    <description>This is a dummy website essentially created to test personnally Jekyll and Github Pages tools.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Nov 2015 16:02:36 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2015 16:02:36 +0000</lastBuildDate>
+    <link>http://zekinder.github.io/</link>
+    <atom:link href="http://zekinder.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 Nov 2015 16:43:06 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2015 16:43:06 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
         <title>My fabulous adventure with Jekyll</title>
         <description>&lt;p&gt;Quite recently i’ve stumbled upon an &lt;a href=&quot;http://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/&quot;&gt;article&lt;/a&gt; regarding the rise of static website generators.
-The article described various generators, but emphasize on a specific one, &lt;code&gt;Jekyll&lt;/code&gt;, as the mother of all static generators.&lt;/p&gt;
+The article described various generators, but emphasizes on a specific one, &lt;code&gt;Jekyll&lt;/code&gt;, as the mother of all static generators.&lt;/p&gt;
 
 &lt;p&gt;So why not try it myself ?&lt;/p&gt;
 
@@ -23,8 +23,8 @@ The article described various generators, but emphasize on a specific one, &lt;c
 
 </description>
         <pubDate>Wed, 18 Nov 2015 13:51:02 +0000</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/11/18/my-fabulous-adventure-with-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/18/my-fabulous-adventure-with-jekyll.html</guid>
+        <link>http://zekinder.github.io/jekyll/update/2015/11/18/my-fabulous-adventure-with-jekyll.html</link>
+        <guid isPermaLink="true">http://zekinder.github.io/jekyll/update/2015/11/18/my-fabulous-adventure-with-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -51,8 +51,8 @@ The article described various generators, but emphasize on a specific one, &lt;c
 
 </description>
         <pubDate>Tue, 17 Nov 2015 17:13:02 +0000</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/11/17/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/17/welcome-to-jekyll.html</guid>
+        <link>http://zekinder.github.io/jekyll/update/2015/11/17/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://zekinder.github.io/jekyll/update/2015/11/17/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
